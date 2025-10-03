@@ -1,0 +1,24 @@
+[submodule "Classification-of-hand-written-digits"]
+	path = Classification-of-hand-written-digits
+	url = https://github.com/Dibyendu011/Classification-of-hand-written-digits.git
+[submodule "Gradient-Descent-Algorithm-from-scratch"]
+	path = Gradient-Descent-Algorithm-from-scratch
+	url = https://github.com/Dibyendu011/Gradient-Descent-Algorithm-from-scratch.git
+[submodule "Predicting_gene_families_from_DNA_sequences"]
+	path = Predicting_gene_families_from_DNA_sequences
+	url = https://github.com/Dibyendu011/Predicting_gene_families_from_DNA_sequences.git
+[submodule "California-housing-price-prediction"]
+	path = California-housing-price-prediction
+	url = https://github.com/Dibyendu011/California-housing-price-prediction.git
+[submodule "end_to_end_Heart_Disease_Prediction"]
+	path = end_to_end_Heart_Disease_Prediction
+	url = https://github.com/Dibyendu011/end_to_end_Heart_Disease_Prediction.git
+[submodule "Clustering_NCI-60_cancer_cell_lines_based_on_RNA-seq_data"]
+	path = Clustering_NCI-60_cancer_cell_lines_based_on_RNA-seq_data
+	url = https://github.com/Dibyendu011/Clustering_NCI-60_cancer_cell_lines_based_on_RNA-seq_data.git
+[submodule "Dog_Breed_Prediction_Model"]
+	path = Dog_Breed_Prediction_Model
+	url = https://github.com/Dibyendu011/Dog_Breed_Prediction_Model.git
+[submodule "Yeast_Crabtree_Project"]
+	path = Yeast_Crabtree_Project
+	url = https://github.com/Dibyendu011/Yeast_Crabtree_Project.git
